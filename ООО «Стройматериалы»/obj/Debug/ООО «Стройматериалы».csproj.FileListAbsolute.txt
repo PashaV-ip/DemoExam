@@ -1,0 +1,25 @@
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».csproj.AssemblyReference.cache
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».csproj.SuggestedBindingRedirects.cache
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\View\Windows\MainWindow.g.cs
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\App.g.cs
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы»_Content.g.cs
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы»_MarkupCompile.cache
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы»_MarkupCompile.lref
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\ООО «Стройматериалы».exe.config
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\ООО «Стройматериалы».exe
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\ООО «Стройматериалы».pdb
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\EntityFramework.dll
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\EntityFramework.xml
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\bin\Debug\ru\EntityFramework.resources.dll
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\View\Windows\MainWindow.baml
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».g.resources
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО__Стройматериалы_.Properties.Resources.resources
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».csproj.GenerateResource.cache
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».csproj.CoreCompileInputs.cache
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».csproj.CopyComplete
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».exe
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\ООО «Стройматериалы».pdb
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\View\Windows\ApplicationWindow.g.cs
+D:\ИС-32\DemoExam\ООО «Стройматериалы»\ООО «Стройматериалы»\obj\Debug\View\Windows\ApplicationWindow.baml
